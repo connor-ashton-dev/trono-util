@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+/* @font-face {
+  font-family: 'CopperPlateGothic';
+  src: local('copperplate gothic font'),
+    url('./fonts/copperplate\ gothic\ font.ttf') format('truetype');
+} */
