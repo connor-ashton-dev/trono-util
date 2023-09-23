@@ -1,197 +1,252 @@
 export const productData = [
   {
-    ProductName: 'ALPHA PRO',
-    Description: 'SILVER / EGGSHELL WHITE',
-    image: 'Catalog Alpha Pro.jpg',
+    ProductName: "FOREST GREEN",
+    Description: "FOREST GREEN",
+    image: "FOREST GREEN PRODUCT OFFICIAL.jpg",
   },
   {
-    ProductName: 'BALANCE BLACK',
-    Description: 'CORE BLACK / CORE WHITE',
-    image: 'Catalog Balance Black.jpg',
-  },
-  {
-    ProductName: 'BALANCE WHITE',
-    Description: 'CORE WHITE / CORE BLACK',
-    image: 'Catalog Balance White.jpg',
-  },
-  {
-    ProductName: 'BANDIT',
-    Description: 'CORE BLACK / TAN / LIGHT OAK',
-    image: 'Catalog Bandit.jpg',
-  },
-  {
-    ProductName: 'BRIGHT ORANGE',
-    Description: 'BRIGHT ORANGE',
-    image: 'Catalog Bright Orange.jpg',
-  },
-  {
-    ProductName: ' BROWN',
-    Description: 'BROWN',
-    image: 'Catalog Brown.jpg',
-  },
-  {
-    ProductName: 'BUSHWOOD',
-    Description: ' MAROON / HAZEL / TAN',
-    image: 'Catalog Bushwood.jpg',
-  },
-  {
-    ProductName: 'CAROLINA BLUE',
-    Description: 'CAROLINA BLUE / PACIFIC BLACK',
-    image: 'Catalog Carolina Blue.jpg',
-  },
-  {
-    ProductName: 'CAROLINA CLUB',
-    Description: 'CAROLINA BLUE / NAVY BLUE / CLOUD WHITE',
-    image: 'Catalog Carolina Club.jpg',
-  },
-  {
-    ProductName: 'CELESTIAL',
-    Description: 'DIAMOND BLUE / CORE WHITE',
-    image: 'Catalog Celestial.jpg',
-  },
-  {
-    ProductName: 'CHECKERBOARD',
-    Description: 'CORE BLACK / CLOUD WHITE',
-    image: 'Catalog Checkerboard.jpg',
-  },
-  {
-    ProductName: 'CLOUD WHITE',
-    Description: 'CLOUD WHITE',
-    image: 'Catalog Cloud White.jpg',
-  },
-  {
-    ProductName: 'CORE BLACK',
-    Description: 'CORE BLACK',
-    image: 'Catalog Core Black.jpg',
-  },
-  {
-    ProductName: 'DARK OAK',
-    Description: 'DARK OAK / CORE WHITE',
-    image: 'Catalog Dark Oak.jpg',
-  },
-  {
-    ProductName: "DERBY BLACK",
-    Description: "CORE BLACK / CLOUD WHITE",
-    image: "Catalog Derby Black.jpg"
-  },
-  {
-    ProductName: "DERBY BLUE",
-    Description: "NAVY BLUE / CLOUD WHITE",
-    image: "Catalog Derby Blue.jpg"
-  },
-  {
-    ProductName: "DIAMONDBACK",
-    Description: "PACIFIC BLACK / CLOUD WHITE / FLAME RED",
-    image: "Catalog Diamondback.jpg"
-  },
-  {
-    ProductName: "EL DIABLO",
-    Description: "NAVY BLUE / MAROON",
-    image: "Catalog El Diablo.jpg"
-  },
-  {
-    ProductName: "EL DORADO",
-    Description: "TAN / LIGHT OAK",
-    image: "Catalog El Dorado.jpg"
-  },
-  {
-    ProductName: "EMPEROR",
-    Description: "CORE BLACK / GRAY",
-    image: "Catalog Emperor.jpg"
-  },
-  {
-    ProductName: "FLAME RED",
-    Description: "FLAME RED",
-    image: "Catalog Flame Red.jpg"
+    ProductName: "BROWN",
+    Description: "LIGHT BROWN",
+    image: "BROWN PRODUCT OFFICIAL.jpg",
   },
   {
     ProductName: "GRAY",
     Description: "GRAY",
-    image: "Catalog Gray.jpg"
+    image: "GRAY PRODUCT OFFICIAL.jpg",
   },
   {
-    ProductName: "HOT PINK",
-    Description: "HOT PINK",
-    image: "Catalog Hot Pink.jpg"
-  },
-  {
-    ProductName: "MAGMA RED",
-    Description: "FLAME RED / CORE WHITE",
-    image: 'Catalog Magma Red.jpg'
-  },
-  {
-    ProductName: "MAROON",
-    Description: "MAROON",
-    image: "Catalog Maroon.jpg"
-  },
-  {
-    ProductName: "MIDNIGHT MIX",
-    Description: "NAVY BLUE / CORE BLACK / SILVER",
-    image: "Catalog Midnight Mix.jpg"
-  },
-  {
-    ProductName: "MOCHA",
-    Description: "MOCHA BROWN / CORE WHITE",
-    image: "Catalog Mocha.jpg"
-  },
-  {
-    ProductName: "NAVY BLUE",
-    Description: "NAVY BLUE",
-    image: "Catalog Navy Blue.jpg"
-  },
-  {
-    ProductName: "NAVY CREW",
-    Description: "NAVY BLUE / CORE WHITE",
-    image: "Catalog Navy Crew.jpg"
+    ProductName: "ARCTIC BLUE",
+    Description: "ARCTIC BLUE",
+    image: "ARCTIC BLUE PRODUCT OFFICIAL.jpg",
   },
   {
     ProductName: "PACIFIC BLACK",
     Description: "PACIFIC BLACK",
-    image: "Catalog Pacific Black.jpg"
+    image: "PACIFIC BLACK PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "DARK OAK",
+    Description: "OAK BROWN / WHITE",
+    image: "DARK OAK PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "MOCHA",
+    Description: "MOCHA BROWN / WHITE",
+    image: "MOCHA PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "CANADA ASH",
+    Description: "CORE BLACK / SILVER",
+    image: "CANADA ASH PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "BRIGHT ORANGE",
+    Description: "BRIGHT ORANGE",
+    image: "BRIGHT ORANGE PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "CORE BLACK",
+    Description: "CORE BLACK",
+    image: "CORE BLACK PRODUCT OFFICIAL.jpg",
   },
   {
     ProductName: "PATRIOT",
-    Description: "NAVY BLUE / CLOUD WHITE / FLAME RED",
-    image: "Catalog Patriot.jpg"
+    Description: "NAVY BLUE / WHITE / BRIGHT RED",
+    image: "PATRIOT PRODUCT OFFICIAL.jpg",
   },
   {
-    ProductName: "POCKET ACE",
-    Description: "TAN / DIAMOND BLUE / CLOUD WHITE",
-    image: "Catalog Pocket Ace.jpg"
+    ProductName: "MIDNIGHT MIX",
+    Description: "NAVY BLUE / CORE BLACK / SILVER",
+    image: "MIDNIGHT MIX PRODUCT OFFICIAL.jpg",
   },
   {
     ProductName: "RODEO STAR",
-    Description: "BROWN / TAN",
-    image: 'Catalog Rodeo Star.jpg'
+    Description: "LIGHT BROWN / TAN",
+    image: "RODEO STAR PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "EL DIABLO",
+    Description: "NAVY BLUE / MAROON",
+    image: "EL DIABLO PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "CHECKERBOARD",
+    Description: "CORE BLACK / CLOUD WHITE",
+    image: "CHECKERBOARD PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "CLOUD WHITE",
+    Description: "CLOUD WHITE",
+    image: "CLOUD WHITE PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "BRIGHT GREEN",
+    Description: "BRIGHT GREEN",
+    image: "BRIGHT GREEN PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "ALPHA PRO",
+    Description: "FADED WHITE / SILVER",
+    image: "ALPHA PRO PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "DERBY BLACK",
+    Description: "CORE BLACK / CLOUD WHITE",
+    image: "DERBY BLACK PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "BANDIT",
+    Description: "CORE BLACK / TAN / LIGHT OAK",
+    image: "BANDIT PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "CORAL RED",
+    Description: "CORAL RED",
+    image: "CORAL RED PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "SILVER SAILER",
+    Description: "CORE BLACK / SILVER / WHITE",
+    image: "SILVER SAILER PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "SANDBAGGER",
+    Description: "NAVY BLUE / TAN / LIGHT BROWN",
+    image: "SANDBAGGER PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "CAROLINA CLUB",
+    Description: "CAROLINA BLUE / NAVY BLUE / WHITE",
+    image: "CAROLINA CLUB PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "SKY BLUE",
+    Description: "SKY BLUE",
+    image: "SKY BLUE PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "YACHT CLUB",
+    Description: "CREW YELLOW / NAVY BLUE / WHITE",
+    image: "YACHT CLUB PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "CAROLINA BLUE",
+    Description: "CAROLINA BLUE / PACIFIC BLACK",
+    image: "CAROLINA BLUE PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "PURPLE",
+    Description: "PURPLE",
+    image: "PURPLE PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "NAVY BLUE",
+    Description: "NAVY BLUE",
+    image: "NAVY BLUE PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "PEARL GRAY",
+    Description: "PEARL GRAY",
+    image: "PEARL GRAY PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "BUSHWOOD",
+    Description: "MAROON / ARMY GREEN / TAN",
+    image: "BUSHWOOD PRODUCT OFFICIAL.jpg",
   },
   {
     ProductName: "ROYAL BLUE",
     Description: "ROYAL BLUE",
-    image: "Catalog Royal Blue.jpg"
+    image: "ROYAL BLUE PRODUCT OFFICIAL.jpg",
   },
   {
-    ProductName: "SANDBAGGER",
-    Description: "NAVY BLUE / TAN / BROWN",
-    image: "Catalog Sandbagger.jpg"
+    ProductName: "DIAMONDBACK",
+    Description: "PACIFIC BLACK / BRIGHT RED / WHITE",
+    image: "DIAMONDBACK PRODUCT OFFICIAL.jpg",
   },
   {
-    ProductName: "SANTA CLARA",
-    Description: "DARK MAROON / NAVY BLUE / TAN",
-    image: "Catalog Santa Clara.jpg"
+    ProductName: "EL DORADO",
+    Description: "TAN / LIGHT OAK",
+    image: "EL DORADO PRODUCT OFFICIAL.jpg",
   },
   {
-    ProductName: "SILVER SAILER",
-    Description: "SILVER / CORE BLACK / CLOUD WHITE",
-    image: "Catalog Silver Sailer.jpg"
+    ProductName: "ROYAL SKIES",
+    Description: "ROYAL BLUE / CORE BLACK / WHITE",
+    image: "ROYAL SKIES PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "MAROON",
+    Description: "MAROON",
+    image: "MAROON PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "YELLOW",
+    Description: "YELLOW",
+    image: "YELLOW PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "CORAL CREW",
+    Description: "CORAL RED / WHITE",
+    image: "CORAL CREW PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "BALANCE WHITE",
+    Description: "WHITE / CORE BLACK",
+    image: "BALANCE WHITE PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "BALANCE BLACK",
+    Description: "CORE BLACK / WHITE",
+    image: "BALANCE BLACK PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "ARMY GREEN",
+    Description: "ARMY GREEN",
+    image: "ARMY GREEN PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "FLAMINGO",
+    Description: "FLAMINGO PINK",
+    image: "FLAMINGO PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "DERBY BLUE",
+    Description: "NAVY BLUE / CLOUD WHITE",
+    image: "DERBY BLUE PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "NAVY CREW",
+    Description: "NAVY BLUE / WHITE",
+    image: "NAVY CREW PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "POCKET ACE",
+    Description: "TAN / CELESTIAL BLUE / WHITE",
+    image: "POCKET ACE PRODUCT OFFICIAL.jpg",
   },
   {
     ProductName: "TOUR SILVER",
-    Description: "DARK SILVER / CORE WHITE",
-    image: "Catalog Tour Silver.jpg"
+    Description: "DEEP SILVER / WHITE",
+    image: "TOUR SILVER PRODUCT OFFICIAL.jpg",
   },
   {
-    ProductName: "YACHT CLUB",
-    Description: "CREW YELLOW / NAVY BLUE / CLOUD WHITE",
-    image: "Catalog Yacht Club.jpg"
-  }
+    ProductName: "BUBBLEGUM",
+    Description: "BUBBLEGUM PINK",
+    image: "BUBBLEGUM PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "SANTA CLARA",
+    Description: "BRAND RED / NAVY BLUE / TAN",
+    image: "SANTA CLARA PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "CELESTIAL",
+    Description: "WHITE / CELESTIAL BLUE",
+    image: "CELESTIAL PRODUCT OFFICIAL.jpg",
+  },
+  {
+    ProductName: "EMPEROR",
+    Description: "CORE BLACK / GRAY",
+    image: "EMPEROR PRODUCT OFFICIAL.jpg",
+  },
 ];
